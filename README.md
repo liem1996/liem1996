@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="file:///C:/Users/liemm/OneDrive/%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA/HELLOWORLD.JPG" width="776" height="183">
-<!--
+
 **liem1996/liem1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
