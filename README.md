@@ -1,5 +1,5 @@
 
-<img src="cooltext416959158319905.png" style="height: 120px;">
+<img src="cooltext416959900268439.png" style="height: 120px;">
 
   <a>
 👩‍🎓 B.sc in Computer Science 👩‍🎓
